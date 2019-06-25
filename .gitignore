@@ -11,6 +11,9 @@
 # production
 /build
 
+# restrict yourself from pushing keys
+/privatkeys
+
 # misc
 .DS_Store
 .env.local
