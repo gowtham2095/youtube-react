@@ -12,7 +12,7 @@
 /build
 
 # restrict yourself from pushing keys
-/privatkeys
+privatekeys.js
 
 # misc
 .DS_Store
